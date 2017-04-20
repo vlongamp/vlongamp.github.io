@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Magazine Plug\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-06 09:33+0000\n"
+"PO-Revision-Date: 2017-04-06 09:37+0000\n"
+"Last-Translator: admin <caiwen173@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "All"
+msgstr "Tout"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "Congratulations, you've reached all posts."
+msgstr "Félicitations, vous avez parcouru tous les articles."
+
+#. Text in function
+#: magazine-plug/shortcodes/s-social.php:1
+msgid "Follow Us"
+msgstr "Nous suivre"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-social.php:1
+msgid "Follow us on"
+msgstr "Nous suivre sur"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "Galleries"
+msgstr "Photos"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "Load More Posts"
+msgstr "Charger plus d'articles"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "Posts"
+msgstr "Articles"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts.php:1
+msgid "Read More"
+msgstr "Voir d'avantage"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-social.php:1
+msgid "Subscribe us on"
+msgstr ""
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts-tabs.php:1
+msgid "Videos"
+msgstr "Vidéos"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts.php:1 magazine-plug/shortcodes/s-grid.php:1
+#: magazine-plug/magazin-extras.php:169
+#: magazine-plug/shortcodes/s-trending.php:1
+msgid "shares"
+msgstr "Partage"
+
+#. Text in function
+#: magazine-plug/shortcodes/s-posts.php:1 magazine-plug/shortcodes/s-grid.php:1
+#: magazine-plug/magazin-extras.php:169
+#: magazine-plug/shortcodes/s-trending.php:1
+msgid "views"
+msgstr "Vues"
